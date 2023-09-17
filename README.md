@@ -10,7 +10,7 @@ To facilitate network learning, we construct paired samples comprising both norm
 # **Visualization Results**:
 Comparisons of the visualization of results on human pose estimation. The first two rows are the results of C-MPII, and the last two rows are the results of C-COCO. The first column is the real labeled human bodies, the second column is the results of HRNet~\cite{sun2019deep}, and the third column is the results of the ENet of D-Slope+HRNet. The red dotted line represents the occluded cases of pose estimation caused by the addition of human body patches, and the yellow dotted line circles challenging cases that are inherent in MPII.
 <p align="center">
-    <img src='figs/COCO.pdf' width=900/>
+    <img src='figs/visual.jpg' width=900/>
 </p>
 
 
