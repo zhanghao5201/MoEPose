@@ -2,6 +2,11 @@
 Official code repository for the paper:
 **D-Slope: Dual-Sample Learning for Occluded Human Pose Estimation**
 
+# **News**
+2023/09/17 Code is open source.
+2023/09/17 Dataset is open source.
+
+
 # **Abstract**:
 
 This paper presents D-Slope, a dual-sample learning approach for occluded human pose estimation to address the challenges of accurately estimating keypoint coordinates in scenarios where the human body is partially or fully occluded. D-Slope comprises two parallel networks for mutual learning, namely the general network (GNet) and the coupled expert network (ENet). The general network (GNet) processes the normal images and summarizes the learned knowledge, while the coupled expert network (ENet) is tailored specifically for handling occlusion. By performing mutual learning between these two networks, D-Slope is able to effectively address the issue of occlusion in human pose estimation.
